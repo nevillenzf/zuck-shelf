@@ -1,9 +1,15 @@
 # Robotic Shelf - ZUCK
 
-Robotic shelf created for a Human Computer Interaction UX class using a Google AIY kit (Raspberry Pi and Google Cloud Speech to Text API) and also an Arduino to control the motors on the robotic shelf
+Robotic shelf created for UW - Madison Human-Computer Interaction UX class (CS639) using a Google AIY kit (Raspberry Pi and Google Cloud's Speech-to-Text API) and also an Arduino to receive inputs from the AIY kit and to control the motors and lights on the robotic shelf. 
+
 <img src= "./images/presentation_poster.png">
 
+# Purpose of Research
+
+An inventory management system created to solve the issue of inventory mismanagement in homes, and indexing grocery items according the date the purchaser will be pleased to use them by as an attempt to mitigate **food wastage**.
+
 # Technology
+
 - 4 Pressure Sensors
 - 4 NeoPixel LED rings
 - 4 Vibrating Motor
