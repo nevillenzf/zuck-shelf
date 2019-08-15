@@ -25,15 +25,7 @@ Check out our final research findings [here](https://drive.google.com/a/wisc.edu
 
 # Acknowledgements 
 
-We would like to thank our principal investigator, Bilge
-
-Mutlu for helping us through every step of the way in ev-
-ery procedure and protocol required for this study to be
-
-possible. We would also like to thank the UW Computer
-Science Department for funding the development of this
-robot. We appreciate the UW Makerspace's resources and
-
-student faculty for helping us undersand machinery and cir-
-cuit elements. Finally, we would like to thank all the research
+We would like to thank our principal investigator, Bilge Mutlu for helping us through every step of the way in every procedure and protocol required for this study to be possible. 
+We would also like to thank the UW Computer Science Department for funding the development of this robot. 
+We appreciate the UW Makerspace's resources and student faculty for helping us undersand machinery and circuit elements. Finally, we would like to thank all the research
 participants that participated in this study.
